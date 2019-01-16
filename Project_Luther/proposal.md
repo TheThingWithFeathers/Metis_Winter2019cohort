@@ -4,7 +4,7 @@
 
 ### Scope
 
-In my year+ in Seattle to date, I have anecdotally established that Seattleites not only do not mind the cold and the rain, but can even be gleeful once the gloom descends.  I would like to investigate in a more quantitative manner the impact of inclement weather on commuters and see whether I can predict the number of bicyclists going through the Fremont bridge for the upcoming days based on the forecast.
+In my year+ in Seattle to date, I have anecdotally established that Seattleites not only do not mind the cold and the rain, but can even be gleeful once the gloom descends.  I would like to investigate in a more quantitative manner the impact (or lack thereof?) of inclement weather on commuters and see whether I can predict the number of bicyclists going through the Fremont bridge for the upcoming days based on the forecast.
 
 ### Methodology
 
