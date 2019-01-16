@@ -17,13 +17,13 @@ In my year+ in Seattle to date, I have anecdotally established that Seattleites 
 
 1. Fremont Bridge hourly bycicle counts (download)
 
-   [link]: https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k
+   [link]: https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k "bycicle counts"
 
    
 
 2.  Daily historical temperature and precipitation readings for Seattle (scrape)
 
-   [link]: https://w2.weather.gov/climate/xmacis.php?wfo=sew
+   [link]: https://w2.weather.gov/climate/xmacis.php?wfo=sew "weather"
 
    
 
