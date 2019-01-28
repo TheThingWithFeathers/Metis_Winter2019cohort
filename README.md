@@ -1,8 +1,8 @@
 ##“Hope” is the thing with feathers - (314)
 *BY EMILY DICKINSON
 
-“Hope” is the thing with feathers -
-That perches in the soul -
+“Hope” is the thing with feathers - /n
+That perches in the soul -          /n
 And sings the tune without the words -
 And never stops - at all -
 
