@@ -1,5 +1,5 @@
-##“Hope” is the thing with feathers - (314)
-*BY EMILY DICKINSON
+##“Hope” is the thing with feathers - (314)## \
+*BY EMILY DICKINSON*
 
 “Hope” is the thing with feathers - \
 That perches in the soul -          \
